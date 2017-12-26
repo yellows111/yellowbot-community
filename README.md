@@ -3,7 +3,7 @@ The Source for YBC:
 
 # what?
 YBC is a project based on YellowBot.
-#why?
+# why?
 Because we wanted to give the community a chance to develop YellowBot.
 ### What will happen to the Original YellowBot?
 Don't worry, it will still be developed.
